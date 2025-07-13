@@ -1,0 +1,75 @@
+好的，完全没问题。
+
+为了方便您在网上（如Google、GitHub、Reddit、知乎、Bilibili等平台）搜索同好或者已有的解决方案，我将您的核心需求与我们最终打磨出的想法，总结成一个清晰、准确、包含关键词的“项目需求简介”。
+
+项目核心目标
+
+打造一个基于大语言模型（LLM，如Gemini）的高度个性化的AI助手，通过一个精心设计的系统提示词（System Prompt），实现自动化地从视频、文章等信息源中，萃取出对我个人而言最高价值密度、最可操作的知识，旨在极大节省信息筛选和处理的时间，并将学习成果无缝地沉淀到个人知识管理系统（如Obsidian）中。
+
+关键需求与挑战 (The "What" and "Why")
+
+对抗信息过载与时间稀缺：核心痛点是时间有限，而有价值的视频内容太长。需要AI过滤掉至少90%的“噪音”（如寒暄、广告、无关信息），只呈现最核心的价值。
+
+追求深度与个性化：通用的“视频总结”工具无法满足需求。AI必须深刻理解我的个人背景（大三、电子科学与技术、激光方向）和我的双重目标（学习专业工具 vs. 吸收生活、情感、成长经验），并以此为标准来判断“什么是价值”。
+
+强调结构化与可行动性：输出结果不能是一段文字，而必须是高度结构化、模块化的报告。这样便于快速消化和后续处理。特别是需要明确区分“可以立刻上手操作的步骤”（The Handles）、“能够启发思考的观点”（The Gems）和“需要规避的风险”（The Red Flags）。
+
+打通“学习”到“沉淀”的链路：最终目标并非简单地“知道”了什么，而是要将这些萃取出的知识，以最低的摩擦成本，存入并融入我个人的Obsidian知识库，成为我长期知识体系的一部分。
+
+构想的核心解决方案 (The "How")
+
+单一、强大的系统提示词 (A Robust System Prompt)：整个项目的“发动机”，通过精密的指令工程（Prompt Engineering）来指挥AI完成所有任务，而非依赖复杂的软件开发。
+
+写死的个性化用户画像 (A Hard-coded User Profile)：将我的个人背景直接写入提示词，作为AI所有判断的最高优先级依据。
+
+自动化、零交互的工作流 (A Zero-Interaction Workflow)：为了追求极致效率，AI被设定为“投入内容，直接输出报告”，中间没有任何多余的提问或确认环节。
+
+多维度的结构化输出《价值简报》：最终产出物是一个标准化的报告，永远包含【核心摘要】、【可行动的抓手】、【闪光的洞见】和【警示与陷阱】四个部分，确保全面覆盖所有价值类型。
+
+网络搜索关键词推荐
+
+您可以组合使用以下关键词进行搜索，中英文结合效果更佳：
+
+中文关键词：
+
+AI 视频总结/摘要 工具
+
+Obsidian AI 插件/工作流
+
+System Prompt 系统提示词 分享
+
+自动化知识萃取
+
+AI Zettelkasten/卡片笔记
+
+Gemini/ChatGPT prompt 视频分析
+
+AI 笔记整理
+
+英文关键词 (非常重要，这个领域的很多讨论在英文社区)：
+
+AI Video Summary
+
+Prompt Engineering for knowledge extraction
+
+Obsidian AI workflow / integration
+
+LLM for personal knowledge management (PKM)
+
+Custom GPT for academic research / video summary
+
+AI powered second brain
+
+Automated note-taking with AI
+
+Semantic search for PKM
+
+组合搜索示例：
+
+"Obsidian" + "AI" + "YouTube"
+
+"Prompt" to summarize video for "students"
+
+"Gemini" automate "note taking"
+
+希望这份总结能帮您快速、精准地找到您的“同路人”！
